@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  font-family: 'Mansalva', cursive;
+}
+body {
+  border:5px solid black;
+  background: #e3e6e1;
+  text-align: center;
+}
+html {
+  background: lightgray;
+}
